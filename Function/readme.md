@@ -1,0 +1,2 @@
+Azurite: Start
+func start

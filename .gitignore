@@ -1,0 +1,9 @@
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+__azurite*
+Function/__blobstorage__/*
+Function/__queuestorage__/*
